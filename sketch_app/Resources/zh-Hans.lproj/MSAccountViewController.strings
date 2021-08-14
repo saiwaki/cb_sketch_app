@@ -1,0 +1,54 @@
+/* Class = "NSTextFieldCell"; title = "email@sketch.com"; ObjectID = "4RF-s8-Fke"; */
+"4RF-s8-Fke.title" = "email@sketch.com";
+
+/* Class = "NSTableColumn"; headerCell.title = "Team"; ObjectID = "7yr-p8-PBh"; */
+"7yr-p8-PBh.headerCell.title" = "团队";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "DNe-Wd-S3s"; */
+"DNe-Wd-S3s.title" = "退出登录";
+
+/* Class = "NSTextFieldCell"; title = "Switch to a subscription to get access to Workspaces."; ObjectID = "Duz-8i-BV9"; */
+"Duz-8i-BV9.title" = "切换订阅已获取办公空间的访问权限";
+
+/* Class = "NSButtonCell"; title = "Get Started…"; ObjectID = "et6-Dk-9Lk"; */
+"et6-Dk-9Lk.title" = "开始使用…";
+
+/* Class = "NSButtonCell"; title = "Sign In…"; ObjectID = "GWS-xi-fRe"; */
+"GWS-xi-fRe.title" = "登录…";
+
+/* Class = "NSButtonCell"; title = "Account Settings…"; ObjectID = "KIf-4t-ktD"; */
+"KIf-4t-ktD.title" = "账户设置…";
+
+/* Class = "NSTextFieldCell"; title = "Staging"; ObjectID = "l5L-ZD-oJs"; */
+"l5L-ZD-oJs.title" = "过渡环境";
+
+/* Class = "NSButtonCell"; title = "Sign In…"; ObjectID = "nEv-z3-8L4"; */
+"nEv-z3-8L4.title" = "登录…";
+
+/* Class = "NSTextFieldCell"; title = "Editor"; ObjectID = "nnD-70-8aQ"; */
+"nnD-70-8aQ.title" = "编辑者";
+
+/* Class = "NSTextFieldCell"; title = "Full Name"; ObjectID = "oto-YR-W6x"; */
+"oto-YR-W6x.title" = "全称";
+
+/* Class = "NSTextFieldCell"; title = "Workspaces"; ObjectID = "P3E-gf-j6x"; */
+"P3E-gf-j6x.title" = "办公空间";
+
+/* Class = "NSButtonCell"; title = "Subscribe…"; ObjectID = "PbL-ow-4TO"; */
+"PbL-ow-4TO.title" = "订阅…";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Info"; ObjectID = "ric-Kg-iHY"; */
+"ric-Kg-iHY.placeholderString" = "信息";
+
+/* Class = "NSTextFieldCell"; title = "Team"; ObjectID = "rNu-Cb-T4o"; */
+"rNu-Cb-T4o.title" = "团队";
+
+/* Class = "NSTextFieldCell"; title = "Sign in with your email and password to access your non-SSO workspaces."; ObjectID = "tG1-qc-KXz"; */
+"tG1-qc-KXz.title" = "使用邮箱地址和密码，登录您的非 SSO 办公空间。";
+
+/* Class = "NSTextFieldCell"; title = "Team"; ObjectID = "TRW-yZ-iJZ"; */
+"TRW-yZ-iJZ.title" = "团队";
+
+/* Class = "NSButton"; ibShadowedToolTip = "View Workspace in Web app"; ObjectID = "zNB-zV-TN0"; */
+"zNB-zV-TN0.ibShadowedToolTip" = "在网页应用中查看办公空间";
+

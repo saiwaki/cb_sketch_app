@@ -1,0 +1,54 @@
+/* Class = "NSTextFieldCell"; title = "Save As:"; ObjectID = "4uc-SE-2Gi"; Note = "Document save dialog: Save as name textfield label"; */
+"4uc-SE-2Gi.title" = "保存为：";
+
+/* Class = "NSTextFieldCell"; title = "Save Document"; ObjectID = "7Bt-4Y-FgZ"; */
+"7Bt-4Y-FgZ.title" = "保存文档";
+
+/* Class = "NSTextFieldCell"; title = "Sign in to use Workspaces"; ObjectID = "9L3-lF-UxO"; */
+"9L3-lF-UxO.title" = "登录以使用办公空间";
+
+/* Class = "NSTextFieldCell"; title = "Location:"; ObjectID = "038-Jv-hbe"; Note = "Document save dialog: project selection input label"; */
+"038-Jv-hbe.title" = "位置：";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "B1e-jo-2HG"; */
+"B1e-jo-2HG.title" = "保存";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "bBN-Z9-Hkd"; */
+"bBN-Z9-Hkd.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Get Started…"; ObjectID = "FBj-Z7-Qtl"; */
+"FBj-Z7-Qtl.title" = "开始使用…";
+
+/* Class = "NSButtonCell"; title = "Learn More…"; ObjectID = "fvL-9S-d6u"; */
+"fvL-9S-d6u.title" = "了解更多…";
+
+/* Class = "NSTextFieldCell"; title = "Moving a document to a Workspace will remove your local copy as a result."; ObjectID = "GwT-rJ-hHt"; Note = "Document save dialog: project selection input label"; */
+"GwT-rJ-hHt.title" = "将文件移动到办公空间后，本地的副本将会被删除。";
+
+/* Class = "NSTextFieldCell"; title = "Workspaces give you a place to store your work, as well as powerful sharing and collaborative tools."; ObjectID = "la1-Ex-gig"; */
+"la1-Ex-gig.title" = "办公空间能让您灵活储存或共享设计文档，轻松与他人协作。";
+
+/* Class = "NSTextFieldCell"; title = "Project:"; ObjectID = "nHS-40-2mO"; Note = "Document save dialog: project selection input label"; */
+"nHS-40-2mO.title" = "项目：";
+
+/* Class = "NSButtonCell"; title = "Don’t Save"; ObjectID = "oB0-xF-Wdr"; */
+"oB0-xF-Wdr.title" = "不要保存";
+
+/* Class = "NSTextFieldCell"; title = "You can choose to save this document locally on your Mac or to a Workspace."; ObjectID = "ucB-Ve-dxd"; */
+"ucB-Ve-dxd.title" = "您可以选择将文档保存至本地或办公空间。";
+
+/* Class = "NSWindow"; title = "Save Document"; ObjectID = "UJv-D2-e4U"; */
+"UJv-D2-e4U.title" = "保存文档";
+
+/* Class = "NSButtonCell"; title = "Embed Fonts…"; ObjectID = "xS9-o2-jHr"; */
+"xS9-o2-jHr.title" = "嵌入…";
+
+/* Class = "NSSegmentedCell"; Y0G-Wh-sF8.ibShadowedLabels[0] = "On Your Mac"; ObjectID = "Y0G-Wh-sF8"; */
+"Y0G-Wh-sF8.ibShadowedLabels[0]" = "于您的 Mac";
+
+/* Class = "NSSegmentedCell"; Y0G-Wh-sF8.ibShadowedLabels[1] = "To a Workspace"; ObjectID = "Y0G-Wh-sF8"; */
+"Y0G-Wh-sF8.ibShadowedLabels[1]" = "至办公空间";
+
+/* Class = "NSTextFieldCell"; title = "Workspace:"; ObjectID = "y6R-G4-liy"; Note = "Document save dialog: team selection input label"; */
+"y6R-G4-liy.title" = "团队：";
+

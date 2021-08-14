@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Sketch</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.bohemiancoding.sketch3</string>
+	<key>CFBundleName</key>
+	<string>Sketch</string>
+	<key>CFBundleShortVersionString</key>
+	<string>75</string>
+	<key>CFBundleVersion</key>
+	<string>129697</string>
+	<key>DocumentCompatibilityVersion</key>
+	<string>99</string>
+	<key>DocumentVersion</key>
+	<string>136</string>
+	<key>ECVersionCommit</key>
+	<string>932244b639e24421d42316c5db14720f20458126</string>
+	<key>PasteboardVersion</key>
+	<string>7</string>
+	<key>Sketch Variant</key>
+	<string>NONAPPSTORE</string>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+/* Class = "NSMenuItem"; title = "Display P3"; ObjectID = "1xN-7l-zQL"; */
+"1xN-7l-zQL.title" = "Display P3";
+
+/* Class = "NSTextFieldCell"; title = "Color Profile:"; ObjectID = "17W-RW-TQM"; */
+"17W-RW-TQM.title" = "颜色配置文件：";
+
+/* Class = "NSMenuItem"; title = "Unmanaged"; ObjectID = "dsF-eB-uEr"; */
+"dsF-eB-uEr.title" = "非托管";
+
+/* Class = "NSMenuItem"; title = "sRGB IEC61966-2.1"; ObjectID = "kLl-li-7uK"; */
+"kLl-li-7uK.title" = "sRGB IEC61966-2.1";
+
+/* Class = "NSTextFieldCell"; title = "sRGB is the standard for web design, and the best choice if you are targeting a wide array of devices. Display P3 supports more vibrant colors."; ObjectID = "Utd-2h-nHC"; */
+"Utd-2h-nHC.title" = "sRBG 是常用于网页设计的标准颜色模式，它能够很好地支持各种设备，是您设计时的首选。Display P3 可以更好地支持鲜艳色彩。";
+

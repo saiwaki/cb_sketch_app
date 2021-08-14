@@ -1,0 +1,27 @@
+/* Class = "NSTextFieldCell"; title = "Apply the current RGB values to the selected profile. This will slightly change some colors."; ObjectID = "0Ta-LH-8q7"; */
+"0Ta-LH-8q7.title" = "将当前的 RGB 色值适配到选定的模式。色彩将发生轻微的改变。";
+
+/* Class = "NSButtonCell"; title = "Convert"; ObjectID = "9pS-UM-EHZ"; */
+"9pS-UM-EHZ.title" = "转化";
+
+/* Class = "NSTextFieldCell"; title = "Confirm Color Profile"; ObjectID = "ACc-Ww-0aU"; */
+"ACc-Ww-0aU.title" = "确认颜色模式";
+
+/* Class = "NSButtonCell"; title = "Assign"; ObjectID = "eBI-i6-1We"; */
+"eBI-i6-1We.title" = "分配";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Change the RBG values for the selected profile. Colors will try to appear mostly the same."; ObjectID = "hcn-K7-pxn"; */
+"hcn-K7-pxn.title" = "更改所选模式下的 RGB 色值。颜色显示会尽可能靠近原色。";
+
+/* Class = "NSTextFieldCell"; title = "How should Sketch change the current colors to the selected profile?"; ObjectID = "TEG-0j-uUV"; */
+"TEG-0j-uUV.title" = "您希望 Sketch 怎样更改当前的颜色，以适配到选定的模式？";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "vk9-vS-btZ"; */
+"vk9-vS-btZ.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Apply Color Profile"; ObjectID = "Z3a-b2-GW1"; */
+"Z3a-b2-GW1.title" = "应用颜色模式";
+

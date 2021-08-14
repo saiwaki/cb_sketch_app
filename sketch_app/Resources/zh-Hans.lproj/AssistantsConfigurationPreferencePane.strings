@@ -1,0 +1,12 @@
+/* Class = "NSButtonCell"; title = "Run…"; ObjectID = "6Ba-ER-q3f"; */
+"6Ba-ER-q3f.title" = "运行…";
+
+/* Class = "NSButtonCell"; title = "Find Assistants…"; ObjectID = "djY-CT-1uP"; */
+"djY-CT-1uP.title" = "查找助理…";
+
+/* Class = "NSTextFieldCell"; title = "Assistants can help you spot issues with your documents, stay consistent with design systems, prepare your files for collaboration, and follow your team’s rules."; ObjectID = "rm2-9B-85d"; */
+"rm2-9B-85d.title" = "助理可以帮助您指出文档中的错漏，保持与设计系统的统一性，为协作备好文件，以及遵循团队的规范。";
+
+/* Class = "NSButtonCell"; title = "Install"; ObjectID = "Ykd-Pu-fGb"; */
+"Ykd-Pu-fGb.title" = "安装";
+

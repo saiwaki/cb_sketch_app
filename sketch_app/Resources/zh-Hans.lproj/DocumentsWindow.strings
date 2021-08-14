@@ -1,0 +1,96 @@
+/* Class = "NSMenuItem"; title = "Clear Recent Documents"; ObjectID = "8vM-H3-LHD"; */
+"8vM-H3-LHD.title" = "清空最近文档";
+
+/* Class = "NSToolbarItem"; label = "New Document"; ObjectID = "395-J5-ftd"; Note = "A button that allows creating a new document. Displayed in the top left of the documents window"; */
+"395-J5-ftd.label" = "新文档";
+
+/* Class = "NSToolbarItem"; paletteLabel = "New Document"; ObjectID = "395-J5-ftd"; Note = "A button that allows creating a new document. Displayed in the top left of the documents window"; */
+"395-J5-ftd.paletteLabel" = "新文档";
+
+/* Class = "NSWindow"; title = "Documents"; ObjectID = "bEv-Ix-mMK"; */
+"bEv-Ix-mMK.title" = "文档";
+
+/* Class = "NSButtonCell"; title = "Get Started…"; ObjectID = "D8H-9D-liK"; Note = "A button to let the user login to sketch cloud (or make an account)"; */
+"D8H-9D-liK.title" = "开始使用…";
+
+/* Class = "NSTextFieldCell"; title = "No Results"; ObjectID = "diN-qa-N4B"; Note = "The title of an introduction to Sketch cloud in the documents window"; */
+"diN-qa-N4B.title" = "无结果";
+
+/* Class = "NSToolbarItem"; label = "Search Documents"; ObjectID = "FhS-Ri-ck6"; Note = "The search field in the top right of the documents. Allows for searching through documents"; */
+"FhS-Ri-ck6.label" = "搜索文档";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Search Documents"; ObjectID = "FhS-Ri-ck6"; Note = "The search field in the top right of the documents. Allows for searching through documents"; */
+"FhS-Ri-ck6.paletteLabel" = "搜索文档";
+
+/* Class = "NSMenuItem"; title = "View in Browser…"; ObjectID = "FJA-JT-y3T"; */
+"FJA-JT-y3T.title" = "在浏览器中查看…";
+
+/* Class = "NSTextFieldCell"; title = "Your license has expired."; ObjectID = "FMy-kN-dBH"; Note = "The title of an introduction to Sketch cloud in the documents window"; */
+"FMy-kN-dBH.title" = "您的许可证已过期。";
+
+/* Class = "NSToolbarItem"; label = "Window Name"; ObjectID = "Jdo-If-A6f"; */
+"Jdo-If-A6f.label" = "窗口名称";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Window Name"; ObjectID = "Jdo-If-A6f"; */
+"Jdo-If-A6f.paletteLabel" = "窗口名称";
+
+/* Class = "NSTextFieldCell"; title = "Documents"; ObjectID = "jNC-ey-RSm"; */
+"jNC-ey-RSm.title" = "文档";
+
+/* Class = "NSTextFieldCell"; title = "Sign in to use Workspaces"; ObjectID = "lhr-RP-3as"; Note = "The title of an introduction to Sketch cloud in the documents window"; */
+"lhr-RP-3as.title" = "登录到办公空间";
+
+/* Class = "NSMenuItem"; title = "Delete Project…"; ObjectID = "lUL-Cr-wy1"; */
+"lUL-Cr-wy1.title" = "删除项目…";
+
+/* Class = "NSTextFieldCell"; title = "Workspaces give you a place to store your work, as well as powerful sharing and collaborative tools."; ObjectID = "nvW-G7-OEU"; Note = "The description of an introduction to Sketch cloud in the documents window"; */
+"nvW-G7-OEU.title" = "办公空间能让您灵活储存或共享设计文档，轻松与他人协作。";
+
+/* Class = "NSButtonCell"; title = "View Personal Workspace…"; ObjectID = "oS5-5e-rfr"; */
+"oS5-5e-rfr.title" = "查看个人办公空间…";
+
+/* Class = "NSMenuItem"; title = "Copy Link"; ObjectID = "pi1-x2-8fO"; */
+"pi1-x2-8fO.title" = "拷贝链接";
+
+/* Class = "NSToolbarItem"; label = "Start Fixed Space"; ObjectID = "Pmv-wj-pOb"; Note = "Not actually shown to the user, translation doesn’t have a high priority"; */
+"Pmv-wj-pOb.label" = "启用固定空间";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Start Fixed Space"; ObjectID = "Pmv-wj-pOb"; Note = "Not actually shown to the user, translation doesn’t have a high priority"; */
+"Pmv-wj-pOb.paletteLabel" = "启用固定空间";
+
+/* Class = "NSButtonCell"; title = "Manage License…"; ObjectID = "quf-ki-uPt"; */
+"quf-ki-uPt.title" = "管理许可证…";
+
+/* Class = "NSMenuItem"; title = "Show User Templates Folder"; ObjectID = "r7V-JN-KOp"; */
+"r7V-JN-KOp.title" = "显示用户模板文件夹";
+
+/* Class = "NSTextFieldCell"; title = "Your expired License means you can no longer access documents from your Personal Workspace without a subscription. These documents are still visible on the Web to view and download."; ObjectID = "Rac-CX-WVD"; Note = "The description of an introduction to Sketch cloud in the documents window"; */
+"Rac-CX-WVD.title" = "许可证到期，这意味着若不续期，您就无法再通过个人办公空间查看文档。但您仍可通过网页查看或下载这些文档。";
+
+/* Class = "NSButtonCell"; title = "New Document"; ObjectID = "RFe-b7-tXe"; */
+"RFe-b7-tXe.title" = "新文档";
+
+/* Class = "NSTextFieldCell"; title = "HEADER CELL"; ObjectID = "RPX-bK-rDk"; */
+"RPX-bK-rDk.title" = "标题单元格";
+
+/* Class = "NSTextFieldCell"; title = "An error occurred."; ObjectID = "Se9-bn-vR6"; */
+"Se9-bn-vR6.title" = "发生了错误。";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Sri-gM-Wx0"; */
+"Sri-gM-Wx0.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Open Local Document…"; ObjectID = "Sxj-Yu-Tie"; Note = "A button that allows opening a local Sketch document"; */
+"Sxj-Yu-Tie.title" = "打开本地文档…";
+
+/* Class = "NSButtonCell"; title = "Learn About Workspaces…"; ObjectID = "u7I-Te-dT1"; */
+"u7I-Te-dT1.title" = "了解办公空间…";
+
+/* Class = "NSMenuItem"; title = "Rename Project"; ObjectID = "VeH-kf-lGf"; */
+"VeH-kf-lGf.title" = "为项目重命名";
+
+/* Class = "NSButtonCell"; title = "Leave Workspace"; ObjectID = "WXn-EN-p6M"; */
+"WXn-EN-p6M.title" = "离开办公空间";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "yhA-Kn-Fb5"; */
+"yhA-Kn-Fb5.title" = "表视图单元格";
+

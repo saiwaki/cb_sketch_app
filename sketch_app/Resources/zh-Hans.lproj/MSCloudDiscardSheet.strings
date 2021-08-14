@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Don’t Close"; ObjectID = "98C-Am-wC9"; */
+"98C-Am-wC9.title" = "不要关闭";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "This document is still being sent to your Workspace."; ObjectID = "lDw-OP-ZSP"; */
+"lDw-OP-ZSP.title" = "该文档仍会被传至您的办公空间。";
+
+/* Class = "NSButtonCell"; title = "Close Anyway"; ObjectID = "NXU-xm-AxP"; */
+"NXU-xm-AxP.title" = "仍然关闭";
+
+/* Class = "NSTextFieldCell"; title = "Choosing “Close Anyway” will stop changes from being sent to your Workspace. This may make the document appear outdated when viewing in the Workspace, and other Editors will not see the latest changes."; ObjectID = "rSE-cC-4HT"; */
+"rSE-cC-4HT.title" = "选择“仍然关闭”后，所做的更改将不会被上传至办公空间。这将导致办公空间中的文档变得陈旧，其他编辑者无法看到最近的更新。";
+

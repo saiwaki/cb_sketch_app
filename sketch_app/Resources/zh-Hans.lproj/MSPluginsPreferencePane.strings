@@ -1,0 +1,48 @@
+/* Class = "NSButtonCell"; title = "Update All"; ObjectID = "0Bu-B2-f1U"; */
+"0Bu-B2-f1U.title" = "更新全部";
+
+/* Class = "NSTextFieldCell"; title = "Plugin description"; ObjectID = "4E0-Dw-bZF"; */
+"4E0-Dw-bZF.title" = "插件描述";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "4eb-Yr-bzc"; */
+"4eb-Yr-bzc.title" = "选项2";
+
+/* Class = "NSButtonCell"; title = "Version 1.5.3 Available"; ObjectID = "5nx-PB-eyv"; */
+"5nx-PB-eyv.title" = "版本1.5.3可用";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "6E8-2M-zBc"; */
+"6E8-2M-zBc.title" = "多行标签";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "7nS-OX-hSg"; */
+"7nS-OX-hSg.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Plugins are created by third-party developers to customize Sketch."; ObjectID = "ao2-LN-DK9"; */
+"ao2-LN-DK9.title" = "插件是由第三方为 Sketch 定制开发的。";
+
+/* Class = "NSTextFieldCell"; title = "Plugin by Author"; ObjectID = "b2d-tp-jNr"; */
+"b2d-tp-jNr.title" = "插件开发者 Author";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "CoN-TJ-3Fd"; */
+"CoN-TJ-3Fd.title" = "选项1";
+
+/* Class = "NSButtonCell"; title = "Get Plugins…"; ObjectID = "dbK-6V-aC1"; */
+"dbK-6V-aC1.title" = "获取插件…";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eFb-7e-vtL"; */
+"eFb-7e-vtL.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "g3S-e8-W9Y"; */
+"g3S-e8-W9Y.title" = "标签";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "hsa-ov-5gT"; */
+"hsa-ov-5gT.title" = "选项3";
+
+/* Class = "NSTextFieldCell"; title = "x.x"; ObjectID = "mzG-Hz-2zk"; */
+"mzG-Hz-2zk.title" = "x.x";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "qE4-0m-9MG"; */
+"qE4-0m-9MG.title" = "更新";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Filter"; ObjectID = "rvK-ei-OCQ"; */
+"rvK-ei-OCQ.placeholderString" = "删选";
+

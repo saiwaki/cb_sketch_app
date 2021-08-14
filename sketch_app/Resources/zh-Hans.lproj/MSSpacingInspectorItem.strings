@@ -1,0 +1,12 @@
+/* Class = "NSTextField"; ibShadowedToolTip = "Adjust horizontal spacing between layers."; ObjectID = "601-gM-lyL"; */
+"601-gM-lyL.ibShadowedToolTip" = "调整图层之间的水平距离。";
+
+/* Class = "NSButtonCell"; title = "Tidy"; ObjectID = "DmC-jf-O0d"; */
+"DmC-jf-O0d.title" = "整理";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Adjust vertical spacing between layers."; ObjectID = "fvL-EK-vXS"; */
+"fvL-EK-vXS.ibShadowedToolTip" = "调整图层之间的垂直距离。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Arrange layers to be evenly spaced."; ObjectID = "iWT-YM-GMf"; */
+"iWT-YM-GMf.ibShadowedToolTip" = "均匀排列图层。";
+

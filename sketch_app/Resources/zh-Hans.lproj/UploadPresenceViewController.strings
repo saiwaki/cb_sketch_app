@@ -1,0 +1,9 @@
+/* Class = "NSTextFieldCell"; title = "Can’t Send to Workspace"; ObjectID = "luN-Ar-FQv"; */
+"luN-Ar-FQv.title" = "无法传至办公空间";
+
+/* Class = "NSTextFieldCell"; title = "This document can’t be updated because there are collaborators editing it in your Workspace"; ObjectID = "NnL-v6-iBG"; */
+"NnL-v6-iBG.title" = "目前无法更新文档，因为有协作者正在办公空间中进行编辑";
+
+/* Class = "NSButtonCell"; title = "Update Workspace Version…"; ObjectID = "yO3-Of-eFB"; */
+"yO3-Of-eFB.title" = "更新办公空间的版本…";
+
